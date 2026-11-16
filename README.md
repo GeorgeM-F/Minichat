@@ -6,3 +6,9 @@ postore.txt   : where the posts are stored
 README.txt    : this file
 screenshot.png: how it looks like
 style.css     : style and looks
+
+You can try a published version at:   https://heliogeorge.heliohost.us/chat.php
+(warning: it uses a different graphics than this one)
+
+Screenshot:
+![Screenshot](./screenshot.png)
